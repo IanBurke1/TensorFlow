@@ -1,4 +1,5 @@
-# TensorFlow Problem Sheet 4
+# Problem Sheet 4: TensorFlow
+#### *Lecturer: [Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
 This repository contains solutions to problem sheet 4 for Emerging Technologies 4th year module. The problem sheet revolves around implementing the famous Iris flower data set using TensorFlow
 
 ### **_Solution can be found above in [TensorFlow_IrisDataSet.ipynb](https://github.com/ianburkeixiv/TensorFlow/blob/master/TensorFlow_IrisDataSet.ipynb)_**
@@ -13,3 +14,8 @@ The programming language used for this problem sheet is [Python](https://www.pyt
 
 ## Numpy
 [NumPy](http://www.numpy.org/) is a library for the [Python](https://www.python.org/) programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.is the fundamental package for scientific computing with Python.
+
+## TensorFlow
+
+## Keras
+
