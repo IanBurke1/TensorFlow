@@ -1,10 +1,13 @@
-# Problem Sheet 4: TensorFlow
+# Problem Sheet 4: TensorFlow/Keras
 #### *Lecturer: [Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
-This repository contains solutions to [problem sheet 4](https://emerging-technologies.github.io/problems/tensorflow.html) for [Emerging Technologies](https://emerging-technologies.github.io/) 4th year module. The problem sheet revolves around implementing the famous Iris flower data set using TensorFlow
+This repository contains solutions to [problem sheet 4](https://emerging-technologies.github.io/problems/tensorflow.html) for [Emerging Technologies](https://emerging-technologies.github.io/) 4th year module. The problem sheet revolves around implementing the famous Iris flower data set using TensorFlow and Keras
+
+#### Objective
+he main objective of this problem sheet is to use Tensorflow/Keras to create a model to predict the species of Iris from a flower’s sepal width, sepal length, petal width, and petal length.
 
 #### **_Solution can be found above in [TensorFlow_IrisDataSet.ipynb](https://github.com/ianburkeixiv/TensorFlow/blob/master/TensorFlow_IrisDataSet.ipynb)_**
 
-# Technologies
+
 ## Python
 The programming language used for this problem sheet is [Python](https://www.python.org/)
 
