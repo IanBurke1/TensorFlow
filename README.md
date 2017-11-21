@@ -2,14 +2,14 @@
 #### *Lecturer: [Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
 This repository contains solutions to problem sheet 4 for Emerging Technologies 4th year module. The problem sheet revolves around implementing the famous Iris flower data set using TensorFlow
 
-### **_Solution can be found above in [TensorFlow_IrisDataSet.ipynb](https://github.com/ianburkeixiv/TensorFlow/blob/master/TensorFlow_IrisDataSet.ipynb)_**
+#### **_Solution can be found above in [TensorFlow_IrisDataSet.ipynb](https://github.com/ianburkeixiv/TensorFlow/blob/master/TensorFlow_IrisDataSet.ipynb)_**
 
 # Technologies
 ## Python
 The programming language used for this problem sheet is [Python](https://www.python.org/)
 
 ## Jupyter
-
+[!](https://user-images.githubusercontent.com/22341150/33091841-28afe576-cef0-11e7-8bfc-809f2e153590.png)
 [Jupyter Notebook](http://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. It used to be called IPython Notebook but has been renamed and moved to the Jupyter project.
 
 ## Numpy
