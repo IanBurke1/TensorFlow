@@ -9,7 +9,7 @@ The main objective of this problem sheet is to use Tensorflow/Keras to create a 
 
 
 ## Python
-The programming language used for this problem sheet is [Python](https://www.python.org/)
+The main programming language used in this problem sheet is [Python](https://www.python.org/)
 
 ## Jupyter
 ![](https://user-images.githubusercontent.com/22341150/33095125-73d0aedc-cefa-11e7-964e-13828fce0c59.png)
