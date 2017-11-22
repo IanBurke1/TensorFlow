@@ -1,5 +1,5 @@
 # Problem Sheet 4: TensorFlow/Keras
-#### *Lecturer: [Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
+#### *Emerging Technologies - Lecturer: [Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
 This repository contains solutions to [problem sheet 4](https://emerging-technologies.github.io/problems/tensorflow.html) for [Emerging Technologies](https://emerging-technologies.github.io/) 4th year module. The problem sheet revolves around implementing the famous Iris flower data set using TensorFlow and Keras
 
 #### Objective
