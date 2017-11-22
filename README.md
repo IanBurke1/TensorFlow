@@ -17,7 +17,7 @@ The main programming language used in this problem sheet is [Python](https://www
 [Jupyter Notebook](http://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. It used to be called IPython Notebook but has been renamed and moved to the Jupyter project.
 
 ## Numpy
-[NumPy](http://www.numpy.org/) is a library for the [Python](https://www.python.org/) programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.is the fundamental package for scientific computing with Python.
+[NumPy](http://www.numpy.org/) is a library for the [Python](https://www.python.org/) programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. It is the fundamental package for scientific computing with Python.
 
 ## TensorFlow
 ![](https://user-images.githubusercontent.com/22341150/33095338-3573a9cc-cefb-11e7-9030-42e3f298e0b7.png)
